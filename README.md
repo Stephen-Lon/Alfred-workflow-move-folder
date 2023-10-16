@@ -19,7 +19,7 @@ The options available are the same but the default dialog choice (which you can 
 
 # Usage
 
-Select a single folder in Finder, activate Alfred using your Universal Action hotkey and find the workflow by starting to type `Move folder`. You will then be prompted for the name of the destination. Start typing the folder name and select the folder you want.
+Select a single folder in Finder, activate Alfred using your Universal Action hotkey and find the workflow by starting to type `Move folder`. After pressing ⏎ you will be prompted for the name of the destination. Start typing the folder name and select the folder you want.
 
 If an identically named folder does not exist in the destination the selected folder will simply be moved to the destination.
 
